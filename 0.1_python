@@ -1,0 +1,5 @@
+def avg(*args):
+    if len(args)==0:
+        return 0
+    return sum(args)/len(args)
+print(avg(10,20,30))
