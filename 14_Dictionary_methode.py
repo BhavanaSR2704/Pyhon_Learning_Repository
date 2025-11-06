@@ -1,7 +1,6 @@
 #~~~~~~~~~~~~~~~~~~~~using all methods in a single programe~~~~~~~~~~~~~~~~~~~~~~~~
 
 my_dict = {"name": "Bhavana", "age": 19, "course": "ISE"}
-
 my_dict.get("name")           #---------------- o/p Bhavana
 my_dict.keys()                #---------------- o/p dict_keys(['name', 'age', 'course'])
 my_dict.values()              #----------------o/p dict_values(['Bhavana', 19, 'ISE'])
