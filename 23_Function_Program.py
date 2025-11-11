@@ -1,0 +1,48 @@
+#SYMPLE PROGRAM FOR UNDERSTANDING THE FUNCTION
+def add(a, b):
+    return a + b
+
+def subtract(a, b):
+    return a - b
+
+def multiply(a, b):
+    return a * b
+
+def divide(a, b):
+    if b == 0:
+        return "Cannot divide by zero"
+    return a / b
+
+print("Select operation:")
+print("1. Add")
+print("2. Subtract")
+print("3. Multiply")
+print("4. Divide")
+
+choice = input("Enter choice : ")
+
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+
+if choice == '1':
+    print("Result:", add(num1, num2))
+elif choice == '2':
+    print("Result:", subtract(num1, num2))
+elif choice == '3':
+    print("Result:", multiply(num1, num2))
+elif choice == '4':
+    print("Result:", divide(num1, num2))
+else:
+    print("Invalid choice")
+#----------------------------------------------
+#OUT PUT
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Select operation:
+# 1. Add
+# 2. Subtract
+# 3. Multiply
+# 4. Divide
+# Enter choice : 1
+# Enter first number: 8
+# Enter second number: 2
+# Result: 10.0
