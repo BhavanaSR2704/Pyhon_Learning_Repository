@@ -1,10 +1,13 @@
 # PASS IS A NULL STATEMENT THAT DOES NOTHING.IT IS USED AS A PLACE HOLDER FOR FUTURE CODE
-#FOR EXAMPLE
+
+
+
 for i in range(5):                #------O/P ERROR
 #---------------------------
 for i in range(5):
   pass                            #-----O/P NO ERROR
 #------------------------------------------
+
 
 age = 18
 if age >= 18:
@@ -20,7 +23,7 @@ def view_students():
 view_students()
 add_student()
 
-#------------------------------------------\
+#------------------------------------------
 
 students = ["Rahul", "Priya", "Vivek", "Unknown"]
 for name in students:
