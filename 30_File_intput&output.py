@@ -6,6 +6,7 @@ with open("practice.txt","r")as f:
     else:
         print("Not Find")           
 
+
 #OUTPUT
 #Found
 
@@ -18,6 +19,7 @@ with open("practice.txt","r")as f:
         print("Found")
     else:
         print("Not Find")
+
 
 #OUTPUT
 #Not Found
