@@ -1,9 +1,9 @@
-___oops in python___
+---oops in python---
 
 *To map with real world seenarios , we started using object in code
 *This is called object oriended programing 
 
-___Class and object in python___
+---Class and object in python---
 
 *class is a blue print of object 
 #creating class
@@ -11,4 +11,16 @@ class Student:
    name ="Bhavana"
 #creating object(instance)
 s1=Student()
+print(s1.name)
+
+---__init__function---
+--constuctor--
+All classes have a function called __init__(),which is always executed when the class is being initiated
+
+#creating class
+class Student:
+  def__init__(self,fullname):
+      self.name=fullname
+#creating object
+s1=Student("Bhavana")
 print(s1.name)
