@@ -1,0 +1,14 @@
+___oops in python___
+
+*To map with real world seenarios , we started using object in code
+*This is called object oriended programing 
+
+___Class and object in python___
+
+*class is a blue print of object 
+#creating class
+class Student:
+   name ="Bhavana"
+#creating object(instance)
+s1=Student()
+print(s1.name)
