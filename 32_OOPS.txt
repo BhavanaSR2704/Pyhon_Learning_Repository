@@ -29,3 +29,20 @@ print(s1.name)
 
 *The self parameter is a refrence to the current instance of the class , and is used to access variables that belongs to the class
 * Attribute:-variable in class is called attributes
+
+***constuctor has two type***
+1.default constuctors
+2.parameterize constuctors
+
+1.Default constuctor:- It is a built in constuctor with no parameter
+Example:-
+def__init__(self):
+   pass
+2.Parameterize constuctors:- It has parameter in addition to self
+Example:-
+class Student:
+    def __init__(self, name, age):   # parameterized constructor
+        self.name = name
+        self.age = age
+s = Student("Bhavana", 20)
+
