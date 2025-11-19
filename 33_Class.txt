@@ -1,0 +1,28 @@
+A class is a blueprint or template used to create objects
+SYNTAX----------->
+ class ClassName:
+     pass
+
+A class contain 
+  *Constructor 
+  *Attribute
+  *Methodes
+
+***constuctor(__init__method)***
+1.A constructor is a special method that runs automatically when an object is created
+2.It is used to initialize (set) the instance attributes of the object
+SYNTAX--------------->
+def __init__(self, parameters):
+    initialize attributes
+
+***Attribute***
+Two types:
+01.Class Attributes → same for all objects
+02.Instance Attributes → different for each object
+
+***Methodes***
+Methods are functions inside a class that perform actions
+Example types:
+  *Instance methods
+  *Class methods
+  *Static methods
