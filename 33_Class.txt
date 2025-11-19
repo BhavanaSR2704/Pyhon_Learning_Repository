@@ -20,6 +20,7 @@ Two types:
 01.Class Attributes → same for all objects
 02.Instance Attributes → different for each object
 
+
 ***Methodes***
 Methods are functions inside a class that perform actions
 Example types:
