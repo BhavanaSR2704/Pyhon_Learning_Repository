@@ -1,7 +1,5 @@
 # Wrapping data and functions into a single unit(object)
 
-# Encapsulation:
-
 # Create a BankAccount class with private attributes for account_number and balance.
 # Add methods to check balance, deposit, and withdraw funds.
 # accessing the balance directly and observe the result.
