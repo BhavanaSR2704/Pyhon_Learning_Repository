@@ -16,5 +16,5 @@ class Toyotacar(car):
 car1=Toyotacar("prices","electic")
 print(car1.type)
 
-#------------O/P:-car start..
+#------------O/P:-#car start..
                   #electic
