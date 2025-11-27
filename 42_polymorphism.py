@@ -19,3 +19,9 @@ num2=complex(4,6)
 num2.showNumber()
 num3=num1+num2
 num3.showNumber()
+
+#-----------------------O/P:-
+     1 i+ 3 j
+     4 i+ 6 j
+
+     5 i+ 9 j
