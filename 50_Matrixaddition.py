@@ -34,3 +34,21 @@ for i in range(rows):
 print("Resultant Matrix after addition:")
 for r in result:
     print(r)
+
+
+#==============================O/P:-
+Enter number of rows: 2
+Enter number of columns: 2
+Enter elements of Matrix A:
+A[0][0] = 2
+A[0][1] = 2
+A[1][0] = 2
+A[1][1] = 2
+Enter elements of Matrix B:
+B[0][0] = 3
+B[0][1] = 3
+B[1][0] = 3
+B[1][1] = 3
+Resultant Matrix after addition:
+[5, 5]
+[5, 5]
