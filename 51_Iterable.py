@@ -4,3 +4,8 @@ nums=[1,2,3,4]   #ITERABLE---LIST,TUPLE
 it=iter(nums)           #ITERATOR
 print(next(it)) #print first number only                  
 print(next(it)) # print second number.......                     #ITERATING/TRAVERSING
+
+
+#=============:-O/P
+1
+2
