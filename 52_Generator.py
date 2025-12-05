@@ -2,7 +2,6 @@
 #IT IS ALSO USED TO REDUCE THE MEMORY SPACE
 import sys
 
-
 l=[x*x for x in range(1,1001)]                           #MEMORY SPACE=8856
 print(type(l))
 print(sys.getsizeof(l))
