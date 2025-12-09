@@ -17,7 +17,6 @@ menu = {
 print("\n--- MENU ---")
 for item, price in menu.items():
     print(f"{item} : ₹{price}")
-
 total = 0
 
 while True:
