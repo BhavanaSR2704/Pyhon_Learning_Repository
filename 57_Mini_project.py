@@ -99,3 +99,71 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+#=======================================================================O/P:-
+Welcome to the Student Quiz & Score Tracker!
+
+Enter your name: Bhavana
+
+Menu:
+1. Take Quiz
+2. Show Leaderboard
+3. Exit
+Enter your choice: 1
+
+Hello Bhavana, welcome to the quiz! Answer by typing the option number.
+
+Q1: What is the capital of India?
+1. Delhi
+2. Mumbai
+3. Bangalore
+4. Chennai
+Your answer: 1
+Correct!
+
+Q2: Which programming language is this quiz written in?
+1. Java
+2. C
+3. Python
+4. Ruby
+Your answer: 1
+Wrong! Correct answer: 3
+
+Q3: Which of these is a loop in Python?
+1. for
+2. switch
+3. define
+4. print
+Your answer: 1
+Correct!
+
+Q4: What does 'if' statement do?
+1. Loop
+2. Condition
+3. Function
+4. Variable
+Your answer: 2
+Correct!
+
+Quiz Finished! Your score: 3/4
+
+
+Menu:
+1. Take Quiz
+2. Show Leaderboard
+3. Exit
+Enter your choice: 2
+
+--- LEADERBOARD ---
+1. Bhavana: 3
+-------------------
+
+
+Menu:
+1. Take Quiz
+2. Show Leaderboard
+3. Exit
+Enter your choice: 3
+Goodbye! Have a great day!
