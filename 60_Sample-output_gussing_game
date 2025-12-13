@@ -1,0 +1,38 @@
+#======================O/p:-1
+
+Welcome to the Number Guessing Game!
+Enter your guess (between 1 and 100): 3
+Too low! Try again.
+Enter your guess (between 1 and 100): 89
+Too high! Try again.
+Enter your guess (between 1 and 100): 62
+Too high! Try again.
+Enter your guess (between 1 and 100): 51
+Too high! Try again.
+Enter your guess (between 1 and 100): 41
+Too high! Try again.
+Enter your guess (between 1 and 100): 31
+Too high! Try again.
+Enter your guess (between 1 and 100): 21
+Too low! Try again.
+Enter your guess (between 1 and 100): 25
+Too low! Try again.
+Enter your guess (between 1 and 100): 30
+Too high! Try again.
+Enter your guess (between 1 and 100): 28
+Too low! Try again.
+Enter your guess (between 1 and 100): 29
+Congratulations! You guessed the number 29 in 11 attempts.
+
+#======================O/p:-2
+
+Enter your guess (between 1 and 100): 29
+Too high! Try again.
+Enter your guess (between 1 and 100): 19
+Too high! Try again.
+Enter your guess (between 1 and 100): 11
+Too low! Try again.
+Enter your guess (between 1 and 100): 15
+Too low! Try again.
+Enter your guess (between 1 and 100): 16
+Congratulations! You guessed the number 16 in 5 attempts.
