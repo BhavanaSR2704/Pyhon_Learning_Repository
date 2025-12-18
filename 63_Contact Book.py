@@ -12,7 +12,7 @@ while True:
         name = input("Name: ")
         phone = input("Phone: ")
         contacts[name] = phone
-        print("Contact saved ✔️")
+        print("Contact saved ")
 
     elif choice == "2":
         for name, phone in contacts.items():
