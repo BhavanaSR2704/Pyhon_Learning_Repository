@@ -1,4 +1,6 @@
 
+====================================OUTPUT===================================
+
 1. Add Contact
 2. View Contacts
 3. Search Contact
